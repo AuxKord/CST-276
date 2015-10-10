@@ -1,0 +1,7 @@
+O:\Abdullah.yahya\Documents\GitHub\Assign_1\Assign_1\bin\Debug\Assign_1.exe.config
+O:\Abdullah.yahya\Documents\GitHub\CST-276\Assign_1\Assign_1\bin\Debug\Assign_1.exe.config
+O:\Abdullah.yahya\Documents\GitHub\CST-276\Assign_1\Assign_1\bin\Debug\Assign_1.exe
+O:\Abdullah.yahya\Documents\GitHub\CST-276\Assign_1\Assign_1\bin\Debug\Assign_1.pdb
+O:\Abdullah.yahya\Documents\GitHub\CST-276\Assign_1\Assign_1\obj\Debug\Assign_1.csprojResolveAssemblyReference.cache
+O:\Abdullah.yahya\Documents\GitHub\CST-276\Assign_1\Assign_1\obj\Debug\Assign_1.exe
+O:\Abdullah.yahya\Documents\GitHub\CST-276\Assign_1\Assign_1\obj\Debug\Assign_1.pdb
